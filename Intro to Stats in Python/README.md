@@ -2,7 +2,7 @@
 
 This notebook contains the introductory concepts for Statistics with examples all done using Python and Pandas. I will cover more topics in different notebooks.
 
-** Topics Covered:
+Topics Covered:
 * Identifying/Summarizing Variables
 * Measures of Central Tendency
 * Dispersion and Spread of Data
